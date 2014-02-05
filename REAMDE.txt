@@ -1,0 +1,3 @@
+Implementing Dynamic Thermal Management (DTM) cooling mechanisms to make simulators behave like “real” system.
+
+Model Dynamic Frequency Scaling (DFS) i.e. increment/decrement CPU frequency w.r.t to temperature of the chip.
